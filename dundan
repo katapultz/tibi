@@ -1039,8 +1039,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 **************************************************************video on demand*****************************************************************************
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgzODM2MjUyMF5BMl5BanBnXkFtZTgwMzg4MjA1OTE@._V1_.jpg" group-title="Rurouni Kenshin",Rurouni Kenshin
-https://www.googleapis.com/drive/v3/files/1KBGWb9Vf8qMfG8K_ABQL6UiYKT0JbxIK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" tvg-logo="https://play-lh.googleusercontent.com/otoeWtoX2Q0jrxWiBt-LH-WeXodUVZK8eywjSwTSjNBtI-N8SGawl8GisXbT0w0amiA" group-title="Rurouni Kenshin",Rurouni Kenshin: Kyoto Inferno
 https://www.googleapis.com/drive/v3/files/1AgyreabgsHd1ox5cyr0TSnzuTKnQbHBh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" tvg-logo="https://occ-0-360-33.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUzIe6mjVkZyKtr-OSf-mtMdjM7REkZX3vmXplucye9Prc__9i6IVPASUX6w3XNnfB5FT74iqY5cUL9QaCZ4D7xZJxXTjnVgHo_1.jpg?r=c59" group-title="Rurouni Kenshin",Rurouni Kenshin: The Legend Ends
