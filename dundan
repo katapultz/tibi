@@ -1022,6 +1022,7 @@ https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchanne
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
 #EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="AFF MITSUBISHI ELECTRIC 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmlFiapx-7cIlgKy1iyejt8OVm7_jxaDYmg&usqp=CAU",AFF MITSUBISHI ELECTRIC 2022
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
 ********radio********
 
 #EXTINF:-1 tvg-name="Radio" tvg-id="Radioku" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlkyrRSQooGCrkZWr00DGc-DhIWzrMcaLEsg&usqp=CAU" group-title="RADIO",Sounds of Christmas
@@ -1174,8 +1175,6 @@ https://www.googleapis.com/drive/v3/files/1trdpJH9mXK8yxDzMZBq9HBotfE-T6Okl?alt=
 https://www.googleapis.com/drive/v3/files/1aHNMwzVw8B8H7b_HkW8tYfyhw7DyNMdi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gucv9gRRnVFDyqeIS1KC7irnX0b.jpg" group-title="Transporter",Transporter 3
 https://www.googleapis.com/drive/v3/files/1KecYpsXXUIpsM8u3spCJzRc37xo0fgKz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
 #EXTINF:-1 type="movie" group-title="Transformers",Transformers
 https://www.googleapis.com/drive/v3/files/1D8I-c3sw8zgGO25U9spcXvEo4s7w8WuB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" group-title="Transformers",Transformers: Revenge of the Fallen
@@ -1186,8 +1185,6 @@ https://www.googleapis.com/drive/v3/files/1LIgP9wx6Bq0Y3mAKuCrfrKofVGmDXedl?alt=
 https://www.googleapis.com/drive/v3/files/1lifI9fNwSzS9rw9Piq1N92TKeEQAYkNH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" group-title="Transformers",Transformers: The Last Knight
 https://www.googleapis.com/drive/v3/files/1LOF2bS9OS3B28gqZVAP7IbCVcrXnegat?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
 #EXTINF:-1 type="movie" group-title="X-Men",X-Men
 https://www.googleapis.com/drive/v3/files/1zpxhRNUnVwCeenz96ebNpt7IQEOf6l_6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" group-title="X-Men",X2: X-Men United
