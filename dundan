@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/astro.xml" refresh="1440" billed-msg="WELCOME TO MY IPTV WORLD! HAPPY NEW YEAR 2023 !!"
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/astro.xml" refresh="1440" billed-msg="NENGAK TIBI DEH"
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"  
 refresh="3600"
